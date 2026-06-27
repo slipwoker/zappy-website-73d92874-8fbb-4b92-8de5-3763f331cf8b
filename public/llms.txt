@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://-73d92874.zappy5.app
+https://example.com
 הפכו את החלום למציאות עם המדריך המושלם לדיסני! טיפים בלעדיים, מסלולים חכמים וכל מה שצריך לחופשה משפחתית מושלמת בדיסני וורלד. התחילו לתכנן את ההרפתקה עכשיו!
 
 ### שירותים
-https://-73d92874.zappy5.app/services
+https://example.com/services
 מחפשים איך לתכנן טיול לדיסני וורלד בלי לחץ? גלו את חבילות ההדרכה המותאמות אישית שלנו, עמוסות בטיפים לביקור בדיסנילנד עם ילדים. הקסם מחכה לכם!
 
 ### אודות
-https://-73d92874.zappy5.app/about
+https://example.com/about
 מי אנחנו ולמה אנחנו אוהבים דיסני וורלד יותר מכולם? הכירו את הסיפור מאחורי המדריך המושלם לדיסני, ואת התשוקה שלנו לעזור למשפחות לחוות את הקסם במלואו.
 
 ### צור קשר
-https://-73d92874.zappy5.app/contact
+https://example.com/contact
 יש שאלה על טיפים לביקור בדיסנילנד עם ילדים? צרו קשר עכשיו! נשמח לעזור לכם להפוך כל רגע בדיסני וורלד לזכרון בלתי נשכח. שלחו הודעה ותתחילו לחלום!
 
 ### Products
-https://-73d92874.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - המדריך המושלם לדיסני
 
 ### Cart
-https://-73d92874.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-73d92874.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-73d92874.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-73d92874.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-73d92874.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-73d92874.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - המדריך המושלם לדיסני
 
 ### Category
-https://-73d92874.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - המדריך המושלם לדיסני
 
 ### תודה על פנייתך
-https://-73d92874.zappy5.app/thank-you
+https://example.com/thank-you
 המדריך המושלם לדיסני - תודה על פנייתך
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-73d92874.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-73d92874.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-73d92874.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -98,8 +98,8 @@ E-commerce / Travel Guides
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-73d92874.zappy5.app/sitemap.xml
-- Robots: https://-73d92874.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-73d92874.zappy5.app/llms-full.txt
-- Products (JSON): https://-73d92874.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-73d92874.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
